@@ -1,2 +1,2 @@
 # hello_world
-first repository
+want to learn python and system administration...
